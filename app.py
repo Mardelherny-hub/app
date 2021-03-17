@@ -1,0 +1,3 @@
+from Aplicacion import *
+
+Aplicacion()
