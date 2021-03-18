@@ -27,3 +27,4 @@ Se trata de un cotizador que permite realizar el presupuesto de un sistema de al
   - Bd.py
 - base.py (script base de diseño de interfase, luego pasado a objetos)
 - base0.py (script base de diseño de interfase modal, luego pasado a objetos)
+- cotizador (archivo de base de datos para ser usado con SQLITE)
